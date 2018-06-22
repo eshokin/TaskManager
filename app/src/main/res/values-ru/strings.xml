@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Планировщик дел</string>
+
+    <string name="press_back_twice">Для выхода нажмите кнопку назад еще раз</string>
 </resources>
